@@ -1,2 +1,2 @@
 # Vare-DeObfuscator
-DeObfuscator For The DeObfuscator called "Vare"
+DeObfuscator For The Obfuscator called "Vare"
